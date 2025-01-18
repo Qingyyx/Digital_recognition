@@ -62,6 +62,7 @@
 
 请确保MNIST数据集文件 `mnist_train.csv` 和 `mnist_test.csv` 位于 mnist_dataset 目录中。并且终端所在位置能正确找到文件。否则会有报错：`Error opening file(s).`
 
+数据集来自 [https://www.kaggle.com/datasets/oddrationale/mnist-in-csv](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
 
 ## 结果
 
